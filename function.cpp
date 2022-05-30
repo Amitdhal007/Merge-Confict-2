@@ -6,7 +6,9 @@ void myfunction(string name ,int age){
     }
 
 int main(){
+:wq:
     myfunction("Akshay",29);
+
 
     // myfunction();
     return 0;
