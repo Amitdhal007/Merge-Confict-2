@@ -7,7 +7,7 @@ void myfunction(string name ,int age){
 
 int main(){
 :wq:
-    myfunction("Akshay",29);
+    myfunction("Akshita",21);
 
 
     // myfunction();
