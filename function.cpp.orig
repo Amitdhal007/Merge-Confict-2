@@ -6,9 +6,13 @@ void myfunction(string name ,int age){
     }
 
 int main(){
-	
+<<<<<<< HEAD
+:wq:
     myfunction("Akshita",21);
 
+=======
+    myfunction("Akash",19);
+>>>>>>> activity
 
     // myfunction();
     return 0;
